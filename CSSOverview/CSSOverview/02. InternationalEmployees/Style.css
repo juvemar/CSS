@@ -1,0 +1,32 @@
+﻿body {
+    font-family: Arial;
+    font-size: 12px;
+}
+
+table {
+    border-spacing: 0;
+    border: 1px solid#808080;
+    border-collapse: collapse;
+    width: 500px;
+}
+
+td {
+    border-left: 1px solid #808080;
+    padding: 8px;
+}
+
+th {
+    background-color: #4bb512;
+    color: #ffffff;
+    font-weight: 100;
+    border: 1px solid #808080;
+    height: 20px;
+}
+
+tr:nth-child(2n) {
+    background-color: #e0dfd0;
+}
+
+img {
+    width: 30px;
+}

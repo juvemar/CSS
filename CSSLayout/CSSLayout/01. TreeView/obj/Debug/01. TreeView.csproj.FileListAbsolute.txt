@@ -1,0 +1,6 @@
+C:\Users\Atanasov\Documents\Visual Studio 2013\Projects\CSS\CSSLayout\CSSLayout\01. TreeView\bin\_01.TreeView.dll.config
+C:\Users\Atanasov\Documents\Visual Studio 2013\Projects\CSS\CSSLayout\CSSLayout\01. TreeView\bin\_01.TreeView.dll
+C:\Users\Atanasov\Documents\Visual Studio 2013\Projects\CSS\CSSLayout\CSSLayout\01. TreeView\bin\_01.TreeView.pdb
+C:\Users\Atanasov\Documents\Visual Studio 2013\Projects\CSS\CSSLayout\CSSLayout\01. TreeView\obj\Debug\01. TreeView.csprojResolveAssemblyReference.cache
+C:\Users\Atanasov\Documents\Visual Studio 2013\Projects\CSS\CSSLayout\CSSLayout\01. TreeView\obj\Debug\_01.TreeView.dll
+C:\Users\Atanasov\Documents\Visual Studio 2013\Projects\CSS\CSSLayout\CSSLayout\01. TreeView\obj\Debug\_01.TreeView.pdb

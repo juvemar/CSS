@@ -1,0 +1,67 @@
+﻿html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr,
+acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong,
+sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table,
+caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption,
+footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family:Calibri;
+    width: 611px;
+    height: 325px;
+    border-radius: 5px;
+    background-color: #1E3741;
+    font-size: 13px;
+}
+
+
+li {
+    display: inline-block;
+    background-color: #4B5F67;
+    padding: 10px;
+    margin: -1px;
+}
+
+    li a {
+        text-decoration: none;
+        color: #b7b5b5;
+    }
+    
+#newsId {
+    color:white;
+    background-color: inherit;
+}
+
+li:nth-of-type(2) {
+    text-decoration: underline;
+    color: #b7b5b5;
+}
+
+section div div{
+    width:218px;
+    font-size:14px;
+    border-top: 1px solid #3A4F58;
+    padding:5px;
+    color: #b7b5b5;
+    font-weight:600;
+}
+
+#firstDiv{
+
+    margin-top:15px;
+    border:none;
+    background-color:#00968C;
+    color:white;
+}
+
+section>div{
+    float:left;
+}
+
+iframe{
+    margin-top:15px;
+    width:320px;
+    height:235px;
+}
